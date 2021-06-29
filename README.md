@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hi there, I'm Roberto González 👋
 
+- Fullstack developer 🧑🏻‍💻
 <!--
 **ragonzalezm19/ragonzalezm19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
