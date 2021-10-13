@@ -1,6 +1,13 @@
-### Hi there, I'm Roberto González 👋
+### Hi there, I'm Roberto González 👋🏻
 
-- Fullstack developer 🧑🏻‍💻
+- ✌🏻 Full Stack developer, with 5 years of experience
+- 😍 Passionate with: 
+  - 🧑🏻‍💻 Write better code
+  - 📚 Learn new technologies
+  - ⚽️ Soccer
+  - 🤟🏻 Music
+- 📫 How to reach me: ragonzalezm.19@gmail.com
+
 <!--
 **ragonzalezm19/ragonzalezm19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
